@@ -185,6 +185,7 @@ nav a:hover{
 .subsection figure{
     background-color: #C8C4B7;
     margin: 0.25rem;
+    width: 33%;
 }
 
 img{
@@ -214,6 +215,7 @@ button{
     font-size 2rem;
     font-family: "montserrat";
     color: #C8C4B7;
+    margin-top: 1rem;
 }
 
 
